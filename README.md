@@ -9,9 +9,8 @@ In this repository we perform an unsupervised machine learning task by clusterin
 with both techniques compared to make a case for why pre-trained embeddings should be the go-to for NLP tasks.
 <br/>
 
-In summary, by using a pre-trained Universal encoder, my Kmeans model was able to predict cluster labels which matched the news category with a 96% accuracy!
-
 ### Model performance
+In summary, by using a pre-trained Universal encoder, my Kmeans model was able to predict cluster labels which matched the news category with a 96% accuracy!
 
 ![image](https://github.com/Jeremyugo/Text-Clustering/assets/36512525/511f9655-3d53-466a-ba2e-e0fa3144ab4b)
 
