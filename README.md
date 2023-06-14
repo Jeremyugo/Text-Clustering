@@ -5,7 +5,9 @@ In this repository we perform an unsupervised machine learning task by clusterin
 2 techniques were used:
 - TextVectorization to map strings to integer indices
 - Pre-trained encoder model to generate embeddings
-<br/>with both techniques compared to make a case for why pre-trained embeddings should be the go-to for NLP tasks.
+
+with both techniques compared to make a case for why pre-trained embeddings should be the go-to for NLP tasks.
+<br/>
 
 In summary, by using a pre-trained Universal encoder, my Kmeans model was able to predict cluster labels which matched the news category with a 96% accuracy!
 
